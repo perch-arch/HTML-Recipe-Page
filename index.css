@@ -12,12 +12,11 @@
     flex-wrap: wrap;
     gap: 0.5rem;
     background-color: #F4FBFF;
-    border: 2px solid red;
 }
 
 .page-right {
   height: 100vh;
-  background-image: url('./assets/images/right background.jpeg');
+  background-image: url('right background.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
